@@ -1,5 +1,6 @@
 # Kotlin ile Android Uygulaması Geliştirme 
 
+
 ###  Mimari
 - Android Lifecycle
 
