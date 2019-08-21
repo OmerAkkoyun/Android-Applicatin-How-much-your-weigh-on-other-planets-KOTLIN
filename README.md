@@ -2,6 +2,9 @@
 
 
 ###  Mimari
+- ConstraintLayout
+- Portrait Tasarım
+- Lanscape Tasarım
 - Android Lifecycle
 
 ## Ekran Görüntüleri
