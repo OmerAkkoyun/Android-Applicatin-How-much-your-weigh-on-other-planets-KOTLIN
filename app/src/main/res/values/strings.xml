@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KacKilosun</string>
+    <string name="uygulamaBaslik">Gezegenlerde Kaç Kilosun ?</string>
+    <string name="simdiki_kilonuz">Şimdiki Kilonuz :</string>
+</resources>
