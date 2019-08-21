@@ -1,6 +1,6 @@
 # Kotlin ile Android Uygulaması Geliştirme 
 
-##Ekran Görüntüleri
+## Ekran Görüntüleri
 
 ![1](https://user-images.githubusercontent.com/33864154/63423086-3c34e400-c414-11e9-9e16-7252654e6917.png)
 
