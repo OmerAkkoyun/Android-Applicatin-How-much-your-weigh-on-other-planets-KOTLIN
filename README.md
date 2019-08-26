@@ -5,7 +5,7 @@
 - ConstraintLayout
 - Portrait Tasarım
 - Lanscape Tasarım
-- Android Lifecycle
+- Android Lifecycle 
 
 ## Ekran Görüntüleri
 
