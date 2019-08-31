@@ -1,5 +1,5 @@
 # Kotlin ile Android Uygulaması Geliştirme 
-
+https://play.google.com/store/apps/developer?id=AkkoyunApps
 
 ###  Mimari
 - ConstraintLayout
