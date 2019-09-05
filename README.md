@@ -1,5 +1,5 @@
 # Android App Development with Kotlin
-https://play.google.com/store/apps/developer?id=AkkoyunApps
+https://play.google.com/store/apps/developer?id=AkkoyunApps 
 
 
 - ConstraintLayout
