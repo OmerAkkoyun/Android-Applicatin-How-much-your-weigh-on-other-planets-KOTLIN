@@ -1,4 +1,4 @@
-# Kotlin ile Android Uygulaması Geliştirme 
+# Kotlin with Android App Development 
 https://play.google.com/store/apps/developer?id=AkkoyunApps
 
 
